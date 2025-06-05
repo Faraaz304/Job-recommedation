@@ -1,0 +1,1277 @@
+[
+    {
+        "user_id": "9ca08568-a810-4e5a-8bea-da6c9436a77d",
+        "name": "Nicholas Reynolds",
+        "email": "gregory60@example.org",
+        "location": "Stevenburgh",
+        "education": {
+            "degree": "PhD",
+            "field": "Engineering",
+            "institution": "Garner-Francis"
+        },
+        "work_experience": [
+            {
+                "job_title": "Marketing executive",
+                "company": "Glenn PLC",
+                "years": 2
+            },
+            {
+                "job_title": "Health promotion specialist",
+                "company": "Greene-Vasquez",
+                "years": 3
+            },
+            {
+                "job_title": "Conservator, museum/gallery",
+                "company": "Douglas-Walker",
+                "years": 4
+            }
+        ],
+        "skills": "Machine Learning, Java, Python",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "East Jasonfurt"
+    },
+    {
+        "user_id": "0db02390-7998-4566-8b4b-7fc5034df381",
+        "name": "Ernest Thomas",
+        "email": "joseph10@example.org",
+        "location": "Lake Debra",
+        "education": {
+            "degree": "PhD",
+            "field": "Business",
+            "institution": "Hernandez-Hawkins"
+        },
+        "work_experience": [
+            {
+                "job_title": "Records manager",
+                "company": "Ochoa-Cook",
+                "years": 2
+            },
+            {
+                "job_title": "Surveyor, mining",
+                "company": "Bennett Ltd",
+                "years": 9
+            },
+            {
+                "job_title": "Chartered loss adjuster",
+                "company": "Carter-Garcia",
+                "years": 6
+            }
+        ],
+        "skills": "Project Management, Java, SQL",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Rodneyville"
+    },
+    {
+        "user_id": "a70c2d15-5fe3-45b4-85dd-dc464701e926",
+        "name": "Angela Parker",
+        "email": "ashleyclayton@example.com",
+        "location": "Kirbyside",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Computer Science",
+            "institution": "Rosales-Johnson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Radio broadcast assistant",
+                "company": "Reynolds LLC",
+                "years": 10
+            }
+        ],
+        "skills": "AWS, SQL, Machine Learning, Project Management, Java, React",
+        "preferred_job_type": "Remote",
+        "preferred_location": "New Danielle"
+    },
+    {
+        "user_id": "be37fb52-a745-48bf-9bf8-a65681d50fbf",
+        "name": "Christine Allen",
+        "email": "bryan09@example.com",
+        "location": "Danachester",
+        "education": {
+            "degree": "MBA",
+            "field": "Computer Science",
+            "institution": "Grant-Santiago"
+        },
+        "work_experience": [
+            {
+                "job_title": "Multimedia specialist",
+                "company": "Holden, Mullen and Richardson",
+                "years": 9
+            },
+            {
+                "job_title": "Programmer, systems",
+                "company": "Curry, Adams and Atkins",
+                "years": 6
+            }
+        ],
+        "skills": "Python, AWS, SQL, Machine Learning",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "South Amberhaven"
+    },
+    {
+        "user_id": "a3c3999a-5d53-44c7-a735-410114fdbd95",
+        "name": "Jonathan Davis",
+        "email": "stanleyjennifer@example.com",
+        "location": "West Michael",
+        "education": {
+            "degree": "PhD",
+            "field": "Business",
+            "institution": "Williams-Davis"
+        },
+        "work_experience": [
+            {
+                "job_title": "Community education officer",
+                "company": "Smith and Sons",
+                "years": 1
+            }
+        ],
+        "skills": "Java, AWS, SQL",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "North Kevinborough"
+    },
+    {
+        "user_id": "c4a31920-faf2-43dc-9200-2cbc61791e5a",
+        "name": "Kevin Mcconnell DDS",
+        "email": "ahaley@example.net",
+        "location": "West Rachelburgh",
+        "education": {
+            "degree": "PhD",
+            "field": "Computer Science",
+            "institution": "Orr-Carson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Systems analyst",
+                "company": "Robinson Group",
+                "years": 4
+            },
+            {
+                "job_title": "Investment banker, corporate",
+                "company": "Jennings-Moore",
+                "years": 8
+            },
+            {
+                "job_title": "Engineer, materials",
+                "company": "Thomas Ltd",
+                "years": 6
+            }
+        ],
+        "skills": "Machine Learning, React, AWS, Java, SQL",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Port Jon"
+    },
+    {
+        "user_id": "02251107-4253-4770-8d6e-9ecd525b47ec",
+        "name": "Charles Woods",
+        "email": "bill47@example.org",
+        "location": "Mayburgh",
+        "education": {
+            "degree": "MBA",
+            "field": "Engineering",
+            "institution": "Todd-Ruiz"
+        },
+        "work_experience": [
+            {
+                "job_title": "Toxicologist",
+                "company": "Crane, Ferguson and Trevino",
+                "years": 8
+            }
+        ],
+        "skills": "AWS, Machine Learning, Project Management, SQL, Python, Java",
+        "preferred_job_type": "Remote",
+        "preferred_location": "East Melissatown"
+    },
+    {
+        "user_id": "cfc1dab1-c110-445d-8c8b-f7b5be43abfa",
+        "name": "Stephanie Cruz",
+        "email": "fowlermichael@example.net",
+        "location": "Michaelbury",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Engineering",
+            "institution": "Garrison, Bryan and Kelly"
+        },
+        "work_experience": [
+            {
+                "job_title": "Chartered legal executive (England and Wales)",
+                "company": "Bowen-Noble",
+                "years": 4
+            }
+        ],
+        "skills": "Machine Learning, React, Project Management, AWS, Python, Java",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "West Melanie"
+    },
+    {
+        "user_id": "d940130f-bacd-4a71-87f2-1cffb4a687fe",
+        "name": "Dustin Richardson",
+        "email": "austin79@example.net",
+        "location": "North Lisatown",
+        "education": {
+            "degree": "MBA",
+            "field": "Computer Science",
+            "institution": "Ellis, Escobar and Dunlap"
+        },
+        "work_experience": [
+            {
+                "job_title": "Conference centre manager",
+                "company": "Chavez, Miller and Carter",
+                "years": 1
+            }
+        ],
+        "skills": "SQL, Machine Learning, AWS, Project Management",
+        "preferred_job_type": "Remote",
+        "preferred_location": "East Jessica"
+    },
+    {
+        "user_id": "7bef49d6-c511-4474-adc9-86bb3f4ef639",
+        "name": "Diane Gonzalez",
+        "email": "hberger@example.net",
+        "location": "Lake Jason",
+        "education": {
+            "degree": "MBA",
+            "field": "Business",
+            "institution": "Green and Sons"
+        },
+        "work_experience": [
+            {
+                "job_title": "Orthoptist",
+                "company": "Miles-Thornton",
+                "years": 8
+            },
+            {
+                "job_title": "Food technologist",
+                "company": "Allen, Carpenter and White",
+                "years": 10
+            }
+        ],
+        "skills": "Python, AWS, Java, Machine Learning, Project Management, React",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Nicholasville"
+    },
+    {
+        "user_id": "80366d72-e177-40cf-a776-dc82110f744b",
+        "name": "Victoria Sanchez",
+        "email": "cannonmichael@example.com",
+        "location": "East Jameshaven",
+        "education": {
+            "degree": "MS",
+            "field": "Data Science",
+            "institution": "Casey Ltd"
+        },
+        "work_experience": [
+            {
+                "job_title": "Database administrator",
+                "company": "Davenport-Ballard",
+                "years": 7
+            },
+            {
+                "job_title": "Sports administrator",
+                "company": "Robinson, Johnson and West",
+                "years": 2
+            }
+        ],
+        "skills": "AWS, React, Machine Learning, SQL",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Davidmouth"
+    },
+    {
+        "user_id": "877395f5-ddd7-49ee-8872-22e2195bd5c9",
+        "name": "Crystal Wood",
+        "email": "kelleystacey@example.com",
+        "location": "Duffychester",
+        "education": {
+            "degree": "PhD",
+            "field": "Data Science",
+            "institution": "Sanchez, West and Decker"
+        },
+        "work_experience": [
+            {
+                "job_title": "Conservation officer, historic buildings",
+                "company": "Gonzales and Sons",
+                "years": 7
+            }
+        ],
+        "skills": "AWS, SQL, Python",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Port Miguel"
+    },
+    {
+        "user_id": "23686cf9-bdaf-4c07-85b6-3ff5825b67dc",
+        "name": "James Gonzalez",
+        "email": "melissapeterson@example.org",
+        "location": "North Kelly",
+        "education": {
+            "degree": "PhD",
+            "field": "Computer Science",
+            "institution": "Hicks, Reid and Willis"
+        },
+        "work_experience": [
+            {
+                "job_title": "Health promotion specialist",
+                "company": "Perez Ltd",
+                "years": 10
+            }
+        ],
+        "skills": "Python, Machine Learning, SQL, Java, Project Management, AWS",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Zacharyhaven"
+    },
+    {
+        "user_id": "04057a09-4752-4168-baf3-7afd99e20313",
+        "name": "Richard Zamora",
+        "email": "qroberts@example.org",
+        "location": "North Jameston",
+        "education": {
+            "degree": "PhD",
+            "field": "Engineering",
+            "institution": "Johnson, Hall and Johnson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Quantity surveyor",
+                "company": "Williams LLC",
+                "years": 4
+            },
+            {
+                "job_title": "Chief Executive Officer",
+                "company": "Gonzalez Inc",
+                "years": 5
+            }
+        ],
+        "skills": "Machine Learning, Python, React",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "New Janet"
+    },
+    {
+        "user_id": "1b75b98d-6a49-463e-879d-44c13a6aa04d",
+        "name": "Brittany Smith",
+        "email": "woodlisa@example.org",
+        "location": "Rebeccaville",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Engineering",
+            "institution": "Nielsen-Carroll"
+        },
+        "work_experience": [
+            {
+                "job_title": "Environmental education officer",
+                "company": "Henderson PLC",
+                "years": 1
+            }
+        ],
+        "skills": "AWS, Machine Learning, SQL, React",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Alexanderborough"
+    },
+    {
+        "user_id": "40e2512d-d761-4e1f-8e75-41efcfbcc978",
+        "name": "Kirk Tran",
+        "email": "dukepeter@example.org",
+        "location": "New Bailey",
+        "education": {
+            "degree": "MS",
+            "field": "Business",
+            "institution": "Hayes, Gonzalez and Stevenson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Contracting civil engineer",
+                "company": "Anderson and Sons",
+                "years": 10
+            },
+            {
+                "job_title": "Travel agency manager",
+                "company": "Gomez PLC",
+                "years": 1
+            },
+            {
+                "job_title": "Medical illustrator",
+                "company": "Jackson-Brewer",
+                "years": 6
+            }
+        ],
+        "skills": "Java, SQL, Machine Learning, Project Management, AWS, React",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "East Timothy"
+    },
+    {
+        "user_id": "0399f2f7-377f-4796-b355-d9b95a2cda85",
+        "name": "Emily Lee",
+        "email": "beasleystephen@example.com",
+        "location": "Romeroland",
+        "education": {
+            "degree": "MBA",
+            "field": "Engineering",
+            "institution": "Garner, Escobar and Martinez"
+        },
+        "work_experience": [
+            {
+                "job_title": "Landscape architect",
+                "company": "Gibbs Ltd",
+                "years": 6
+            },
+            {
+                "job_title": "Health and safety inspector",
+                "company": "Combs LLC",
+                "years": 10
+            }
+        ],
+        "skills": "Java, Python, AWS, Machine Learning",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "East Lisa"
+    },
+    {
+        "user_id": "934b0e0b-37a0-4511-b290-a1be5c369a41",
+        "name": "Rhonda Fry",
+        "email": "brandtwilliam@example.org",
+        "location": "Mccarthychester",
+        "education": {
+            "degree": "MBA",
+            "field": "Business",
+            "institution": "Gonzalez PLC"
+        },
+        "work_experience": [
+            {
+                "job_title": "Teacher, English as a foreign language",
+                "company": "Torres-Jones",
+                "years": 10
+            },
+            {
+                "job_title": "Civil engineer, consulting",
+                "company": "Wolfe-Jones",
+                "years": 5
+            },
+            {
+                "job_title": "Development worker, community",
+                "company": "Davidson, Jimenez and Clay",
+                "years": 3
+            }
+        ],
+        "skills": "Project Management, Java, React, AWS",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Tranview"
+    },
+    {
+        "user_id": "9c2f8cfa-e58f-49c0-b616-faefecd080dd",
+        "name": "Denise Alvarado",
+        "email": "utaylor@example.net",
+        "location": "North Adrienneport",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Business",
+            "institution": "Benson, Reid and Berg"
+        },
+        "work_experience": [
+            {
+                "job_title": "Financial manager",
+                "company": "Barber, Cardenas and Turner",
+                "years": 6
+            },
+            {
+                "job_title": "Pharmacologist",
+                "company": "Vang-Davis",
+                "years": 10
+            },
+            {
+                "job_title": "Newspaper journalist",
+                "company": "Craig Inc",
+                "years": 3
+            }
+        ],
+        "skills": "Project Management, Java, SQL, Python, React, AWS",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Ericafurt"
+    },
+    {
+        "user_id": "ac5be14d-2b56-43f0-a9ee-359e0f694566",
+        "name": "Ronald Cook",
+        "email": "kimward@example.net",
+        "location": "Jacksonside",
+        "education": {
+            "degree": "MBA",
+            "field": "Data Science",
+            "institution": "Brown Inc"
+        },
+        "work_experience": [
+            {
+                "job_title": "Music tutor",
+                "company": "Morales-Lopez",
+                "years": 6
+            },
+            {
+                "job_title": "Patent examiner",
+                "company": "Harper and Sons",
+                "years": 3
+            },
+            {
+                "job_title": "Consulting civil engineer",
+                "company": "Arias Group",
+                "years": 4
+            }
+        ],
+        "skills": "Project Management, Java, AWS",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Thompsonton"
+    },
+    {
+        "user_id": "68df239f-2920-4546-af52-8e32d913b4ab",
+        "name": "John Hammond",
+        "email": "jesuswoodward@example.org",
+        "location": "South Jeanne",
+        "education": {
+            "degree": "PhD",
+            "field": "Computer Science",
+            "institution": "Coleman Ltd"
+        },
+        "work_experience": [
+            {
+                "job_title": "Scientist, clinical (histocompatibility and immunogenetics)",
+                "company": "Rivas Group",
+                "years": 6
+            },
+            {
+                "job_title": "Higher education lecturer",
+                "company": "Ford, Alvarado and Smith",
+                "years": 1
+            }
+        ],
+        "skills": "Java, Project Management, AWS",
+        "preferred_job_type": "Remote",
+        "preferred_location": "New Richard"
+    },
+    {
+        "user_id": "2f7d3124-05c0-4312-be01-3bd5505efd4d",
+        "name": "Tammy Thompson",
+        "email": "moorerebecca@example.com",
+        "location": "Mcmillanview",
+        "education": {
+            "degree": "PhD",
+            "field": "Data Science",
+            "institution": "Patton and Sons"
+        },
+        "work_experience": [
+            {
+                "job_title": "Administrator, sports",
+                "company": "Werner-Hoffman",
+                "years": 10
+            },
+            {
+                "job_title": "Loss adjuster, chartered",
+                "company": "Wilson-Kennedy",
+                "years": 5
+            }
+        ],
+        "skills": "Java, Project Management, SQL, AWS, React",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Kristiburgh"
+    },
+    {
+        "user_id": "efb7a328-1ef8-47e9-adc8-ac264e5c0a0e",
+        "name": "Jasmine Robinson",
+        "email": "lindaanderson@example.org",
+        "location": "Andrewsmouth",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Data Science",
+            "institution": "Martinez, Bennett and Crawford"
+        },
+        "work_experience": [
+            {
+                "job_title": "Teacher, secondary school",
+                "company": "Murray PLC",
+                "years": 3
+            },
+            {
+                "job_title": "Health service manager",
+                "company": "Haley-Foster",
+                "years": 10
+            }
+        ],
+        "skills": "Machine Learning, AWS, SQL, Project Management, Java, Python",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Smithside"
+    },
+    {
+        "user_id": "fb49641c-6360-4e4c-896a-bdf93468e076",
+        "name": "Ronald Simmons",
+        "email": "joseph07@example.org",
+        "location": "Amandamouth",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Business",
+            "institution": "Warner, Lynn and James"
+        },
+        "work_experience": [
+            {
+                "job_title": "Civil engineer, consulting",
+                "company": "Bishop, Smith and Jackson",
+                "years": 2
+            },
+            {
+                "job_title": "Financial planner",
+                "company": "Lynch, Rodriguez and Malone",
+                "years": 7
+            }
+        ],
+        "skills": "React, AWS, Java, Machine Learning, Project Management, Python",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "West Craigport"
+    },
+    {
+        "user_id": "0e52f59a-2f56-40d9-8c4c-b55a503db78f",
+        "name": "Stephanie Clark",
+        "email": "sharpandrea@example.com",
+        "location": "New Crystalfort",
+        "education": {
+            "degree": "PhD",
+            "field": "Computer Science",
+            "institution": "Kim Ltd"
+        },
+        "work_experience": [
+            {
+                "job_title": "Forensic scientist",
+                "company": "Henderson Inc",
+                "years": 6
+            },
+            {
+                "job_title": "Dentist",
+                "company": "Green PLC",
+                "years": 2
+            },
+            {
+                "job_title": "Immunologist",
+                "company": "Ruiz, Perkins and Walsh",
+                "years": 7
+            }
+        ],
+        "skills": "AWS, React, SQL",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Jonesburgh"
+    },
+    {
+        "user_id": "b0a2c4a2-ca91-4e02-8ee4-b22822d28027",
+        "name": "Jordan Glover",
+        "email": "leahanderson@example.com",
+        "location": "Smithshire",
+        "education": {
+            "degree": "MBA",
+            "field": "Business",
+            "institution": "Campbell PLC"
+        },
+        "work_experience": [
+            {
+                "job_title": "Food technologist",
+                "company": "Neal Inc",
+                "years": 8
+            },
+            {
+                "job_title": "Training and development officer",
+                "company": "Lee-Hester",
+                "years": 5
+            }
+        ],
+        "skills": "Python, React, AWS, Machine Learning",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "North Aaronborough"
+    },
+    {
+        "user_id": "17499311-fca7-4352-a7b5-66759ca50c6e",
+        "name": "John Casey",
+        "email": "coxnicholas@example.net",
+        "location": "Lake Haleymouth",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Engineering",
+            "institution": "Lewis, Morgan and Hull"
+        },
+        "work_experience": [
+            {
+                "job_title": "Camera operator",
+                "company": "Quinn LLC",
+                "years": 9
+            },
+            {
+                "job_title": "Radiographer, diagnostic",
+                "company": "Crane Ltd",
+                "years": 9
+            }
+        ],
+        "skills": "Java, AWS, React",
+        "preferred_job_type": "Remote",
+        "preferred_location": "West Timothy"
+    },
+    {
+        "user_id": "920bcba7-5969-4b94-a49f-39cff54e2d9e",
+        "name": "William Aguilar",
+        "email": "peggyking@example.org",
+        "location": "New Valerieview",
+        "education": {
+            "degree": "PhD",
+            "field": "Computer Science",
+            "institution": "Peters-Moss"
+        },
+        "work_experience": [
+            {
+                "job_title": "Best boy",
+                "company": "Gray-Banks",
+                "years": 1
+            }
+        ],
+        "skills": "SQL, Machine Learning, Java, Python",
+        "preferred_job_type": "Remote",
+        "preferred_location": "North Ashleyburgh"
+    },
+    {
+        "user_id": "14b7f8b7-1c3e-4c7f-b2ce-33eb071b846f",
+        "name": "Lisa Quinn",
+        "email": "elizabethcabrera@example.com",
+        "location": "New Ericberg",
+        "education": {
+            "degree": "MS",
+            "field": "Computer Science",
+            "institution": "Reyes, Harper and Wilson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Chartered accountant",
+                "company": "Jackson Ltd",
+                "years": 7
+            },
+            {
+                "job_title": "Dancer",
+                "company": "Johnson PLC",
+                "years": 5
+            }
+        ],
+        "skills": "Project Management, AWS, Java, SQL, Machine Learning",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "South Deborah"
+    },
+    {
+        "user_id": "fc8443d1-8cdc-435e-a3e3-d520fd1d9102",
+        "name": "Gary Oconnell",
+        "email": "debra44@example.net",
+        "location": "Danielbury",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Business",
+            "institution": "Tucker PLC"
+        },
+        "work_experience": [
+            {
+                "job_title": "Clothing/textile technologist",
+                "company": "Norton, Decker and Smith",
+                "years": 9
+            }
+        ],
+        "skills": "Machine Learning, Java, AWS, SQL, Project Management, Python",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "North Marie"
+    },
+    {
+        "user_id": "cbf0c22e-236f-4ba3-a431-f7d9250a5a7d",
+        "name": "Matthew Davila",
+        "email": "westjames@example.com",
+        "location": "Riveraview",
+        "education": {
+            "degree": "MS",
+            "field": "Business",
+            "institution": "Smith-Reyes"
+        },
+        "work_experience": [
+            {
+                "job_title": "Press sub",
+                "company": "Orozco, Rodriguez and Burgess",
+                "years": 7
+            }
+        ],
+        "skills": "Java, Machine Learning, Project Management, React, AWS",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Port Adam"
+    },
+    {
+        "user_id": "17e06c0b-e29b-46a9-b6e6-f47175d95f4b",
+        "name": "William Burton",
+        "email": "brenda53@example.com",
+        "location": "South Dianemouth",
+        "education": {
+            "degree": "MBA",
+            "field": "Business",
+            "institution": "Jones Ltd"
+        },
+        "work_experience": [
+            {
+                "job_title": "Industrial/product designer",
+                "company": "Bullock, Kelly and Rodriguez",
+                "years": 5
+            },
+            {
+                "job_title": "Professor Emeritus",
+                "company": "Sheppard LLC",
+                "years": 2
+            }
+        ],
+        "skills": "React, Project Management, SQL, Machine Learning, AWS, Python",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Mejiaside"
+    },
+    {
+        "user_id": "2b85c37b-4dac-4553-ae45-f56575e19c4b",
+        "name": "Yvonne Barker",
+        "email": "fishersarah@example.com",
+        "location": "Michaelville",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Data Science",
+            "institution": "Martin-Johnson"
+        },
+        "work_experience": [
+            {
+                "job_title": "Facilities manager",
+                "company": "Raymond Ltd",
+                "years": 10
+            }
+        ],
+        "skills": "SQL, Python, Machine Learning",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "New Joshua"
+    },
+    {
+        "user_id": "4bcd6b68-91f9-4ae6-a30f-576cc1b6e170",
+        "name": "Elizabeth Burton",
+        "email": "timothywalker@example.net",
+        "location": "Brandonchester",
+        "education": {
+            "degree": "MS",
+            "field": "Data Science",
+            "institution": "Green LLC"
+        },
+        "work_experience": [
+            {
+                "job_title": "Sales executive",
+                "company": "Cooper, Carey and Adkins",
+                "years": 6
+            },
+            {
+                "job_title": "Geophysical data processor",
+                "company": "Flores, Mclean and Baldwin",
+                "years": 1
+            }
+        ],
+        "skills": "AWS, SQL, Java, Machine Learning",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Port Linda"
+    },
+    {
+        "user_id": "634aa379-c542-4b17-9f98-a0a2c8820c70",
+        "name": "Curtis Kelly",
+        "email": "traci17@example.org",
+        "location": "Vincentstad",
+        "education": {
+            "degree": "MS",
+            "field": "Business",
+            "institution": "Campbell-George"
+        },
+        "work_experience": [
+            {
+                "job_title": "Therapist, occupational",
+                "company": "Haley Inc",
+                "years": 6
+            },
+            {
+                "job_title": "Telecommunications researcher",
+                "company": "Burns, Fox and Berry",
+                "years": 7
+            }
+        ],
+        "skills": "Java, SQL, AWS",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Dustinfurt"
+    },
+    {
+        "user_id": "695956d3-5b4f-41c3-b272-fce54558f6e7",
+        "name": "William Bell",
+        "email": "adamsingleton@example.org",
+        "location": "Lake Alexis",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Computer Science",
+            "institution": "Pittman Inc"
+        },
+        "work_experience": [
+            {
+                "job_title": "Chartered management accountant",
+                "company": "Hill LLC",
+                "years": 4
+            }
+        ],
+        "skills": "Java, AWS, Machine Learning, Project Management, Python",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Johnsonville"
+    },
+    {
+        "user_id": "bd42dc08-36a9-4db4-af46-760d7dcdf63d",
+        "name": "Emma Gonzales",
+        "email": "ortizjennifer@example.org",
+        "location": "New Michaelborough",
+        "education": {
+            "degree": "MS",
+            "field": "Business",
+            "institution": "Jones Group"
+        },
+        "work_experience": [
+            {
+                "job_title": "Nurse, adult",
+                "company": "Price and Sons",
+                "years": 9
+            }
+        ],
+        "skills": "Python, AWS, Machine Learning, Java, React, Project Management",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Jonesfort"
+    },
+    {
+        "user_id": "801ac57b-571b-49b3-b15c-a669d1cb313b",
+        "name": "Anthony Johnson",
+        "email": "crosscarrie@example.org",
+        "location": "New Nathanmouth",
+        "education": {
+            "degree": "PhD",
+            "field": "Engineering",
+            "institution": "Jackson Inc"
+        },
+        "work_experience": [
+            {
+                "job_title": "Neurosurgeon",
+                "company": "Roman-Richardson",
+                "years": 9
+            },
+            {
+                "job_title": "Conservator, furniture",
+                "company": "Wright, Chen and Brown",
+                "years": 2
+            },
+            {
+                "job_title": "Journalist, magazine",
+                "company": "Ward-Sawyer",
+                "years": 5
+            }
+        ],
+        "skills": "Machine Learning, Python, Project Management, SQL, Java",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "West Emily"
+    },
+    {
+        "user_id": "5ed65c43-4444-4b09-8e9e-b343edce6fad",
+        "name": "Amber Swanson",
+        "email": "heidi15@example.com",
+        "location": "New Roberttown",
+        "education": {
+            "degree": "PhD",
+            "field": "Data Science",
+            "institution": "Johnson and Sons"
+        },
+        "work_experience": [
+            {
+                "job_title": "Architect",
+                "company": "Ewing, Hill and Holloway",
+                "years": 4
+            },
+            {
+                "job_title": "Commissioning editor",
+                "company": "Baxter-Walker",
+                "years": 4
+            },
+            {
+                "job_title": "Interpreter",
+                "company": "Page, Golden and Hanson",
+                "years": 7
+            }
+        ],
+        "skills": "Python, React, Project Management, Machine Learning, AWS",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Port Brittanyview"
+    },
+    {
+        "user_id": "f4d2349c-4b17-4ec2-8a8a-b42d36fac475",
+        "name": "Eric Potts",
+        "email": "manuel58@example.com",
+        "location": "North Nicolehaven",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Engineering",
+            "institution": "Moody-Parker"
+        },
+        "work_experience": [
+            {
+                "job_title": "Social worker",
+                "company": "Crawford, Walsh and Williams",
+                "years": 4
+            },
+            {
+                "job_title": "Equality and diversity officer",
+                "company": "Morales-Preston",
+                "years": 5
+            }
+        ],
+        "skills": "React, AWS, Machine Learning, Java, Python, Project Management",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "New Jennifershire"
+    },
+    {
+        "user_id": "5a70f43b-9276-4629-8ca1-85959cbbcff6",
+        "name": "Tyrone Fields",
+        "email": "blankenshipgregory@example.com",
+        "location": "New Wandaton",
+        "education": {
+            "degree": "PhD",
+            "field": "Data Science",
+            "institution": "Montgomery and Sons"
+        },
+        "work_experience": [
+            {
+                "job_title": "Call centre manager",
+                "company": "Williams Inc",
+                "years": 7
+            },
+            {
+                "job_title": "Rural practice surveyor",
+                "company": "Brewer-Williams",
+                "years": 1
+            }
+        ],
+        "skills": "AWS, Java, Machine Learning, Python, React, Project Management",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Bethview"
+    },
+    {
+        "user_id": "f0fd08bc-05a4-4ed8-8608-479ce70ad910",
+        "name": "Elizabeth Stanley",
+        "email": "dennisfox@example.com",
+        "location": "Codybury",
+        "education": {
+            "degree": "MS",
+            "field": "Data Science",
+            "institution": "Sullivan-Velazquez"
+        },
+        "work_experience": [
+            {
+                "job_title": "Special educational needs teacher",
+                "company": "Watts, Perez and Potter",
+                "years": 8
+            },
+            {
+                "job_title": "Magazine journalist",
+                "company": "Zimmerman, Moran and Wagner",
+                "years": 6
+            },
+            {
+                "job_title": "Ophthalmologist",
+                "company": "Wilkins, Wilkerson and Combs",
+                "years": 2
+            }
+        ],
+        "skills": "Machine Learning, Java, React, SQL, AWS, Project Management",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Perezborough"
+    },
+    {
+        "user_id": "06f0c8ae-1630-45ea-a352-30c016edab1b",
+        "name": "Ms. Jasmine Galloway",
+        "email": "jesuswilliams@example.com",
+        "location": "Lake Gregorytown",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Engineering",
+            "institution": "Torres and Sons"
+        },
+        "work_experience": [
+            {
+                "job_title": "Restaurant manager",
+                "company": "Austin, Reid and Houston",
+                "years": 8
+            },
+            {
+                "job_title": "Youth worker",
+                "company": "Adams, Payne and Wang",
+                "years": 10
+            },
+            {
+                "job_title": "Chemical engineer",
+                "company": "Marsh-Watkins",
+                "years": 6
+            }
+        ],
+        "skills": "React, Java, Python",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Wardtown"
+    },
+    {
+        "user_id": "7fe1393b-fd9d-446d-aaf1-60fa37f712f6",
+        "name": "Kim Stokes",
+        "email": "barry26@example.com",
+        "location": "Lake Thomastown",
+        "education": {
+            "degree": "MS",
+            "field": "Business",
+            "institution": "Davis-Sanders"
+        },
+        "work_experience": [
+            {
+                "job_title": "Designer, blown glass/stained glass",
+                "company": "Winters PLC",
+                "years": 5
+            }
+        ],
+        "skills": "Project Management, Python, React, SQL, Java",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "Lake Mikebury"
+    },
+    {
+        "user_id": "ad3c65cd-6c65-49b6-8c21-6946cfde4e69",
+        "name": "Jessica Mitchell",
+        "email": "justin67@example.org",
+        "location": "Mooreton",
+        "education": {
+            "degree": "PhD",
+            "field": "Business",
+            "institution": "Edwards Group"
+        },
+        "work_experience": [
+            {
+                "job_title": "Banker",
+                "company": "Romero, Butler and Daniel",
+                "years": 10
+            }
+        ],
+        "skills": "Project Management, Python, AWS, React, Java",
+        "preferred_job_type": "Remote",
+        "preferred_location": "West Mariahaven"
+    },
+    {
+        "user_id": "cb0d0c09-d8d1-41fe-8718-222595c66e16",
+        "name": "Mark Roberts",
+        "email": "mtran@example.net",
+        "location": "North Lorifort",
+        "education": {
+            "degree": "MS",
+            "field": "Data Science",
+            "institution": "Davis-Young"
+        },
+        "work_experience": [
+            {
+                "job_title": "Farm manager",
+                "company": "Bennett and Sons",
+                "years": 7
+            },
+            {
+                "job_title": "Civil Service administrator",
+                "company": "Lutz-Kane",
+                "years": 7
+            }
+        ],
+        "skills": "Java, React, AWS, Project Management, Python, Machine Learning",
+        "preferred_job_type": "Part-time",
+        "preferred_location": "New Rodney"
+    },
+    {
+        "user_id": "560b6220-fb18-405f-af78-97230c91f83c",
+        "name": "Jessica Davis",
+        "email": "nicholas73@example.net",
+        "location": "East Rebecca",
+        "education": {
+            "degree": "B.Tech",
+            "field": "Data Science",
+            "institution": "Bradley Ltd"
+        },
+        "work_experience": [
+            {
+                "job_title": "Engineer, energy",
+                "company": "Jones, Brown and Klein",
+                "years": 7
+            },
+            {
+                "job_title": "Teacher, adult education",
+                "company": "Gillespie LLC",
+                "years": 10
+            }
+        ],
+        "skills": "AWS, React, Project Management",
+        "preferred_job_type": "Remote",
+        "preferred_location": "North Andrewville"
+    },
+    {
+        "user_id": "3c0c1dce-616a-4b74-9a19-3d17b61bab49",
+        "name": "Patrick Nguyen",
+        "email": "ajones@example.net",
+        "location": "Joditon",
+        "education": {
+            "degree": "MBA",
+            "field": "Data Science",
+            "institution": "Sanchez-Brown"
+        },
+        "work_experience": [
+            {
+                "job_title": "Social research officer, government",
+                "company": "Malone-Henry",
+                "years": 8
+            }
+        ],
+        "skills": "Project Management, Machine Learning, Python, AWS, SQL",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "Michaelland"
+    },
+    {
+        "user_id": "4020314b-858c-4cfe-abff-1ee40cf59132",
+        "name": "Robert Smith",
+        "email": "serranoaaron@example.net",
+        "location": "South Coreyshire",
+        "education": {
+            "degree": "PhD",
+            "field": "Data Science",
+            "institution": "Smith, Williams and Thomas"
+        },
+        "work_experience": [
+            {
+                "job_title": "Systems developer",
+                "company": "Vance-Smith",
+                "years": 8
+            },
+            {
+                "job_title": "Video editor",
+                "company": "Palmer, Hammond and James",
+                "years": 4
+            }
+        ],
+        "skills": "AWS, Machine Learning, SQL, Java",
+        "preferred_job_type": "Remote",
+        "preferred_location": "Paulview"
+    },
+    {
+        "user_id": "c64cebc1-e620-4076-a093-472892c4c0e8",
+        "name": "Elijah Hudson",
+        "email": "nathan26@example.com",
+        "location": "Lake David",
+        "education": {
+            "degree": "MS",
+            "field": "Data Science",
+            "institution": "Weaver Inc"
+        },
+        "work_experience": [
+            {
+                "job_title": "Financial adviser",
+                "company": "Lyons, Garcia and Thomas",
+                "years": 5
+            },
+            {
+                "job_title": "Agricultural engineer",
+                "company": "Johnson-Cole",
+                "years": 10
+            }
+        ],
+        "skills": "Python, AWS, Project Management, SQL, Java",
+        "preferred_job_type": "Full-time",
+        "preferred_location": "New Mauricemouth"
+    }
+]

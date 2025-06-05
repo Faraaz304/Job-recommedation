@@ -1,0 +1,196 @@
+[
+    {
+        "skill_id": "7fb61975-1188-4324-96ed-27d47523ebbb",
+        "skill_name": "Machine Learning",
+        "related_job_titles": [
+            "Chartered public finance accountant",
+            "Health and safety inspector",
+            "Geochemist"
+        ]
+    },
+    {
+        "skill_id": "67c49914-74e5-4d2f-910d-08aebc906eca",
+        "skill_name": "Project Management",
+        "related_job_titles": [
+            "Chief Financial Officer",
+            "Designer, multimedia",
+            "Chiropodist",
+            "Trade mark attorney",
+            "Mental health nurse"
+        ]
+    },
+    {
+        "skill_id": "88ddd563-6e12-4210-8570-1df1623ca2c2",
+        "skill_name": "Python",
+        "related_job_titles": [
+            "Accountant, chartered management",
+            "Theme park manager",
+            "Architect"
+        ]
+    },
+    {
+        "skill_id": "1638286d-55d5-49d3-bc01-dca3fed2cef8",
+        "skill_name": "Project Management",
+        "related_job_titles": [
+            "Radio broadcast assistant",
+            "Estate manager/land agent",
+            "Horticultural therapist",
+            "Associate Professor",
+            "Chartered certified accountant"
+        ]
+    },
+    {
+        "skill_id": "39075baa-ed89-4a58-99e1-4f63498fd382",
+        "skill_name": "Python",
+        "related_job_titles": [
+            "Sound technician, broadcasting/film/video",
+            "Secondary school teacher",
+            "Trade mark attorney"
+        ]
+    },
+    {
+        "skill_id": "1dacc0bb-2fc1-4407-b624-d7c2f33d9fe6",
+        "skill_name": "SQL",
+        "related_job_titles": [
+            "Environmental health practitioner",
+            "Occupational psychologist",
+            "Automotive engineer"
+        ]
+    },
+    {
+        "skill_id": "6e25e41c-6925-4984-a2e9-449eadb8f40d",
+        "skill_name": "SQL",
+        "related_job_titles": [
+            "Community pharmacist",
+            "Chief Operating Officer",
+            "Market researcher",
+            "Associate Professor",
+            "Engineer, civil (consulting)"
+        ]
+    },
+    {
+        "skill_id": "3a28bbdf-4a22-4306-9a15-e1ceabeb0cbb",
+        "skill_name": "Project Management",
+        "related_job_titles": [
+            "Research scientist (life sciences)",
+            "Clinical research associate",
+            "Investment banker, corporate",
+            "Logistics and distribution manager",
+            "Materials engineer"
+        ]
+    },
+    {
+        "skill_id": "13cc9cc9-9158-4804-ae5a-39bf4ed8792e",
+        "skill_name": "SQL",
+        "related_job_titles": [
+            "Hospital pharmacist",
+            "Journalist, newspaper",
+            "Chiropodist"
+        ]
+    },
+    {
+        "skill_id": "bc1ac918-7709-4c39-9363-301afc28de42",
+        "skill_name": "AWS",
+        "related_job_titles": [
+            "Science writer",
+            "Patent attorney",
+            "Medical secretary"
+        ]
+    },
+    {
+        "skill_id": "c82ffdb7-ba99-4bbd-8d96-928dd63127f7",
+        "skill_name": "React",
+        "related_job_titles": [
+            "Sales professional, IT",
+            "Advertising art director",
+            "Surveyor, rural practice"
+        ]
+    },
+    {
+        "skill_id": "7a07cdd4-3196-4bef-a57b-b40d8513d811",
+        "skill_name": "AWS",
+        "related_job_titles": [
+            "Human resources officer",
+            "Producer, television/film/video",
+            "Wellsite geologist"
+        ]
+    },
+    {
+        "skill_id": "f5f4a2c7-72fe-49de-b162-9efd16d2ad5b",
+        "skill_name": "Java",
+        "related_job_titles": [
+            "Social research officer, government",
+            "Engineer, materials",
+            "Technical author",
+            "Curator"
+        ]
+    },
+    {
+        "skill_id": "4e4fb20c-8dbe-48a4-a609-8043de4bf1c7",
+        "skill_name": "AWS",
+        "related_job_titles": [
+            "Astronomer",
+            "Patent attorney",
+            "Risk analyst",
+            "Estate manager/land agent",
+            "Public relations account executive"
+        ]
+    },
+    {
+        "skill_id": "2f85acc9-34fa-4ce6-b808-f1a5b23797a8",
+        "skill_name": "React",
+        "related_job_titles": [
+            "Mental health nurse",
+            "Company secretary",
+            "Comptroller"
+        ]
+    },
+    {
+        "skill_id": "566b06ef-32f4-4a98-b3eb-01c60678ab3c",
+        "skill_name": "AWS",
+        "related_job_titles": [
+            "Ecologist",
+            "Emergency planning/management officer",
+            "Teacher, early years/pre"
+        ]
+    },
+    {
+        "skill_id": "d3b7d623-6e8f-400b-8231-d76852afd51e",
+        "skill_name": "React",
+        "related_job_titles": [
+            "Set designer",
+            "Surveyor, rural practice",
+            "Consulting civil engineer",
+            "Textile designer"
+        ]
+    },
+    {
+        "skill_id": "de7084b9-d21c-4b4c-b7cc-f77862379be9",
+        "skill_name": "Project Management",
+        "related_job_titles": [
+            "Designer, graphic",
+            "Intelligence analyst",
+            "Management consultant"
+        ]
+    },
+    {
+        "skill_id": "34eeb494-cd17-42a4-905c-38d616a0dd7d",
+        "skill_name": "AWS",
+        "related_job_titles": [
+            "Optometrist",
+            "Bookseller",
+            "Teacher, English as a foreign language"
+        ]
+    },
+    {
+        "skill_id": "85b0c0ab-bdb0-4abb-8173-4f21873360c5",
+        "skill_name": "React",
+        "related_job_titles": [
+            "Nurse, learning disability",
+            "Nurse, adult",
+            "Magazine features editor",
+            "Print production planner",
+            "Animal technologist"
+        ]
+    }
+]
